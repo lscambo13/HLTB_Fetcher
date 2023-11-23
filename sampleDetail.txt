@@ -1,0 +1,34 @@
+HowLongToBeatEntry {
+  id: '57479',
+  name: 'Resident Evil 2',
+  description: "A deadly virus engulfs the residents of Raccoon City in September of 1998, plunging the city into chaos as flesh eating zombies roam the streets for survivors. An unparalleled adrenaline rush, gripping storyline, and unimaginable horrors await you. Witness the return of Resident Evil 2.How long is Resident Evil 2? When focusing on the main objectives, Resident Evil 2 is about 8½ Hours in length. If you're a gamer that strives to see all aspects of the game, you are likely to spend around 35 Hours to obtain 100% completion.Platforms: Amazon Luna, Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
+  platforms: [
+    'Amazon Luna',
+    'Nintendo Switch',
+    'PC',
+    'PlayStation 4',
+    'PlayStation 5',
+    'Xbox One',
+    'Xbox Series X/S'
+  ],
+  imageUrl: 'https://howlongtobeat.com/games/57479_Resident_Evil_2_(2019).jpg?width=760',
+  timeLabels: [
+    [ 'gameplayMain', 'Main Story' ],
+    [ 'gameplayMainExtra', 'Main + Sides' ],
+    [ 'gameplayComplete', 'Completionist' ]
+  ],
+  gameplayMain: 8.5,
+  gameplayMainExtra: 15,
+  gameplayCompletionist: 35,
+  similarity: 1,
+  searchTerm: 'Resident Evil 2',
+  playableOn: [
+    'Amazon Luna',
+    'Nintendo Switch',
+    'PC',
+    'PlayStation 4',
+    'PlayStation 5',
+    'Xbox One',
+    'Xbox Series X/S'
+  ]
+}

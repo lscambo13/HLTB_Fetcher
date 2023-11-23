@@ -1,0 +1,34 @@
+HowLongToBeatEntry {
+  id: '57479',
+  name: 'Resident Evil 2',
+  description: '',
+  platforms: [
+    'Amazon Luna',
+    'Nintendo Switch',
+    'PC',
+    'PlayStation 4',
+    'PlayStation 5',
+    'Xbox One',
+    'Xbox Series X/S'
+  ],
+  imageUrl: 'https://howlongtobeat.com/games/57479_Resident_Evil_2_(2019).jpg',
+  timeLabels: [
+    [ 'Main', 'Main' ],
+    [ 'Main + Extra', 'Main + Extra' ],
+    [ 'Completionist', 'Completionist' ]
+  ],
+  gameplayMain: 9,
+  gameplayMainExtra: 15,
+  gameplayCompletionist: 35,
+  similarity: 1,
+  searchTerm: 'resident evil 2',
+  playableOn: [
+    'Amazon Luna',
+    'Nintendo Switch',
+    'PC',
+    'PlayStation 4',
+    'PlayStation 5',
+    'Xbox One',
+    'Xbox Series X/S'
+  ]
+}

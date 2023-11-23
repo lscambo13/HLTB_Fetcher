@@ -1,0 +1,12 @@
+{
+	"cSpell.words": [
+		"Completionist",
+		"gameplay",
+		"hltb",
+		"howlongtobeat"
+	],
+	"liveServer.settings.port": 5546,
+	"editor.defaultFormatter": "dbaeumer.vscode-eslint",
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": false
+}

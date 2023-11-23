@@ -1,0 +1,8 @@
+no punctuation in names
+be sure to add edition types
+3 and iii are not the same
+some edition names are not recognized
+some collections with multiple games give half data like mass effect trilogy, legendary edition
+
+D:\Games,E:\,F:\
+D:\Games,E:\,F:\,G:\Games,D:\Games-III\PS2,"D:\Games-III\Wii U"
